@@ -1,0 +1,22 @@
+    .buttonBack {
+        background-color: rgb(50, 140, 192);
+        margin-right: 10px;
+        text-decoration: none;
+        font-size: 15px;
+        padding: 12px;
+        text-shadow: 1px 1px 2px rgba(0, 0, 0, 0);
+        border-radius: 6px;
+    }
+    
+    .buttonBack:hover {
+        color: rgb(194, 191, 191);
+        background-color: rgb(12, 55, 95);
+    }
+    
+    .img {
+        height: 220px;
+        width: 70%;
+        box-shadow: 2px 4px 8px rgb(68, 67, 67);
+        border-radius: 10px;
+        object-fit: fill;
+    }
